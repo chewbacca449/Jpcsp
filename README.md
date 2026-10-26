@@ -226,4 +226,4 @@ JPCSP is offered as a complete free version with all features and updates includ
 Ready to relive your PSP adventures? **Download JPCSP now and start gaming!**
 
 ---
-**Last updated:** 2026-10-25 23:47:56 UTC
+**Last updated:** 2026-10-26 03:11:56 UTC
